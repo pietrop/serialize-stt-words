@@ -15,10 +15,6 @@ function deSerialize(startList, endList, labelList, label) {
       [label]: labelList[index],
     };
   });
-
-  // result = {};
-  // result[label] = items;
-  // return result;
 }
 
 /**

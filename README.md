@@ -10,7 +10,7 @@ A module to serialize and deserialize words from STT in dpe format into arrays o
 
 eg with euristics if `mock8hours.json` is 8 hours and `9.6MB`
 
-This is the breakdown of file size for each attribute saved seperately.
+This is the breakdown of file size for each attribute saved separately.
 
 ```
  58K paragraphEndTimes.json
