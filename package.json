@@ -1,15 +1,19 @@
 {
-  "name": "serialize-stt-words",
+  "name": "@pietrop/serialize-stt-words",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A module to serialize and deserialize words from STT in dpe format into arrays of each attribute.",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest ./src",
     "publish:public": "npm publish --access public",
     "publish:dry:run": "npm publish --dry-run"
   },
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "Pietro Passarelli",
+    "url": "https://github.com/pietrop"
+  },
+  "contributors": [],
+  "license": "MIT",
   "devDependencies": {
     "jest": "^26.6.3"
   }
