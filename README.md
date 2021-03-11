@@ -5,6 +5,8 @@ _Screenshot of UI - optional_ -->
 
 A module to serialize and deserialize words from STT in dpe format into arrays of each attribute.
 
+Inspred by [@Laurian hyperaudio/transcript-converter issues#1](https://github.com/hyperaudio/transcript-converter/issues/1)
+
 <details>
   <summary>This is as a workaround to firebase 1mb limit.</summary>
 
